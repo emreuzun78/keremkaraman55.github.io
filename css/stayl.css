@@ -1,0 +1,51 @@
+TURUNC #EB6440
+YEŞİL #497174
+BEYAZ #EFF5F5
+GIRIİ #D6E4E5
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-image: url("../img/red-black-brush-stroke-banner-background-perfect-canva.jpg");
+    background-repeat: no-repeat;    
+    background-size: cover;
+}.kutu{
+    width: 500px;
+    height: 550px;
+    background: rgba(100, 0, 0, 0.5);
+    margin: auto;
+    margin-top: 5%;
+    text-align: center;
+    padding: top 40px;
+    color:#D6E4E5;
+    font-family: url('https://fonts.googleapis.com/css2?family=Nunito:wght@300&display=swap');
+
+
+}.resimkutusu {
+    width: 200px;
+    height: 200px;
+
+}
+.başlık{
+padding-bottom: 30px;
+}
+.anasayfa{
+    margin-right: 30px;
+}
+.hakımda{
+    margin-right: 30px;
+
+}.icon{
+    margin-top: 100px;
+}
+.tanıtımm{
+    padding-top: 30px;
+}
+.web{
+    margin-right: 30px;
+}
+.iletişim{
+    margin-left: 30px;
+}

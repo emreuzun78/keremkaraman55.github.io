@@ -1,0 +1,83 @@
+body{
+    background-image: url(../img/iletişim\ arka\ plan.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.menu{
+    margin-left: 0px;
+    width: 255px;   
+    height: 2200px;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: #D6E4E5;
+    float: left;
+    border: 10px solid #EB6440;
+ 
+}
+.menu .kullanıcı{
+    padding-left: 65px;
+    padding-top: 50px;
+    position: relative;
+    left: 30px;
+   
+ 
+}
+.menu .başlık{
+
+    padding-top: 20px;
+    
+    position: relative;
+    left: 20px;
+   
+   
+}
+.menu .kullanıcı .başlık{
+
+    position: relative;
+    left: 30px;
+   
+}a{
+    text-decoration: none;
+    font-size: 20px;
+    color: #D6E4E5;
+}a:hover{
+
+    color:#EB6440;
+}
+.iletişimicon {
+height: 500px;
+width: 500px;
+background-color: rgba(0, 0, 0, 0.5);
+float: left;
+margin-top: 450px;
+margin-left: 450px;
+border: 15px solid #EB6440;
+}.abc{
+    margin-left: 60px;
+    margin-top: 150px ;
+}
+.a{
+    margin-left: 20px;
+
+}
+h1{
+    margin-top: 50px;
+    margin-left: 100px;
+    color: #EB6440;
+}
+p{
+    font-size: 25px;
+    text-align: center;
+    color: #D6E4E5;
+}
+.etiket{
+    margin-top: 20px;
+}
+.kutu2 table{
+    margin-top: 20px;
+
+}
+.etiket{
+    color: black;
+    font-size: 25px;
+
+}

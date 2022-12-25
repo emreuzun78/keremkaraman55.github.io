@@ -1,0 +1,91 @@
+TURUNC #EB6440
+YEŞİL #497174
+BEYAZ #EFF5F5
+GIRIİ #D6E4E5
+*{
+    margin: 0px;
+    padding: 0px;
+    background-image: url("../img/red-black-brush-stroke-banner-background-perfect-canva.jpg");
+
+}
+body{
+   
+    background-image: url("../img/hakkimizda.png.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.tanitim{
+    margin: 0px;
+    width: 2980px;
+    height: 2200px;
+    background-color: rgba(255, 255, 255, 0.5);
+    content:#497174 ;
+}
+.menu{
+    margin-left: 0px;
+    width: 255px;   
+    height: 2200px;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: #D6E4E5;
+    float: left;
+    border: 10px solid  #EB6440;
+
+ 
+}
+.menu .kullanıcı{
+    padding-left: 55px;
+    padding-top: 50px;
+    position: relative;
+    left: 30px;
+   
+ 
+}
+.menu .başlık{
+
+    padding-top: 20px;
+    
+    position: relative;
+    left: 20px;
+   
+   
+}
+.menu .kullanıcı .başlık{
+
+    position: relative;
+    left: 30px;
+   
+}a{
+    text-decoration: none;
+    font-size: 20px;
+    color: #D6E4E5;
+}a:hover{
+
+    color:#EB6440;
+}
+td{
+    margin-left: 10px;
+}
+.kendin{
+    width: 550px;
+    height: 600px;
+    margin-top: 450px;
+    margin-left: 450px;
+    float: left;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: #D6E4E5;
+    text-align: center;
+    border: 10px solid  #EB6440;
+}
+.kendin p{
+    font-size: 25px;
+    color: #D6E4E5;
+ 
+}.kendin h1{
+
+ border-bottom: 2px solid white;
+ 
+}.etiket{
+    color: black;
+    font-size: 25px;
+
+}
